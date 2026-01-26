@@ -67,10 +67,16 @@ Akses aplikasi melalui:
 http://127.0.0.1:8000
 
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshot/homepage.png)
+![Homepage](screenshots/homepage.png)
 
 ### Login Page
-![Login Page](screenshot/login.png)
+![Login Page](screenshots/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Admin Content Management
+![Admin Content Management](screenshots/admin-content.png)
