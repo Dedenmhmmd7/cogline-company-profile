@@ -1,17 +1,36 @@
-# CoglineTech Website
+# CoglineTech IPTV Service Website
 
-Website resmi CoglineTech yang dibangun menggunakan **Laravel Framework**.
-Project ini dikembangkan untuk kebutuhan company profile dan layanan digital.
+Website layanan **IPTV (Internet Protocol Television)** yang dikembangkan menggunakan **Laravel Framework**.  
+Aplikasi ini menyediakan **website layanan IPTV berbasis web** dengan **sistem admin** untuk mengelola konten, layanan, dan informasi yang ditampilkan kepada pengguna.
+
+Project ini ditujukan sebagai **company service website** yang memudahkan pengelolaan layanan IPTV secara terpusat melalui dashboard admin.
+
+---
+
+## 🎯 Fitur Utama
+
+### 🖥️ User Side
+- Informasi layanan IPTV
+- Halaman landing & company profile
+- Tampilan responsif (desktop & mobile)
+- Halaman autentikasi pengguna
+
+### 🔐 Admin Panel
+- Sistem login admin
+- Manajemen konten website
+- Pengelolaan halaman utama
+- Manajemen data layanan IPTV
+- Update konten tanpa mengubah kode
 
 ---
 
 ## 🛠️ Tech Stack
-- PHP >= 8.1
-- Laravel
-- MySQL
-- Blade Template
-- CSS / Bootstrap
-- JavaScript
+- **PHP >= 8.1**
+- **Laravel Framework**
+- **MySQL Database**
+- **Blade Template Engine**
+- **CSS / Bootstrap**
+- **JavaScript**
 
 ---
 
@@ -23,7 +42,7 @@ Ikuti langkah berikut untuk menjalankan project secara lokal.
 ```bash
 git clone https://github.com/Dedenmhmmd7/coglinetech.com.git
 cd coglinetech.com
-
+ 
 composer install
 npm install
 
