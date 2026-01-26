@@ -67,7 +67,7 @@ Akses aplikasi melalui:
 http://127.0.0.1:8000
 
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ### Homepage
 ![Homepage](screenshot/homepage.png)
