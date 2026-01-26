@@ -25,7 +25,7 @@ Project ini ditujukan sebagai **company service website** yang memudahkan pengel
 ---
 
 ## 🛠️ Tech Stack
-- **PHP >= 8.1**
+- **PHP >= 8.3**
 - **Laravel Framework**
 - **MySQL Database**
 - **Blade Template Engine**
