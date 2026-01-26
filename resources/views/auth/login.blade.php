@@ -231,11 +231,6 @@
                 <i class="fas fa-sign-in-alt"></i> Login
             </button>
         </form>
-
-        <div class="auth-footer">
-            <p>Belum punya akun? <a href="{{ route('register') }}">Register</a></p>
-        </div>
-
     </div>
 </body>
 
