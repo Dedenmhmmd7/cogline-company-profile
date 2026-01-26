@@ -65,12 +65,3 @@ php artisan serve
 Akses aplikasi melalui:
 
 http://127.0.0.1:8000
-
-
-## 📸 Screenshot
-
-### Homepage
-![Homepage](screenshot/homepage.png)
-
-### Login Page
-![Login Page](screenshot/login.png)
