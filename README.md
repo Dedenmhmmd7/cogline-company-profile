@@ -70,13 +70,7 @@ http://127.0.0.1:8000
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshot/homepage.png)
 
 ### Login Page
-![Login Page](screenshots/login.png)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### Admin Content Management
-![Admin Content Management](screenshots/admin-content.png)
+![Login Page](screenshot/login.png)
