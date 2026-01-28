@@ -73,11 +73,10 @@ Akses aplikasi melalui browser:
 
 ### Homepage
 
-![Homepage](https://raw.githubusercontent.com/Dedenmhmmd7/coglinetech.com/main/screenshot/homepage.png)
+![Homepage](screenshot/homepage.png)
 
 ### Login Page
-
-![Login Page](https://raw.githubusercontent.com/Dedenmhmmd7/coglinetech.com/main/screenshot/login.png)
+![Login Page](screenshot/login.png)
 
 ---
 
