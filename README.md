@@ -69,7 +69,9 @@ http://127.0.0.1:8000
 ## 📸 Screenshots
 
 ### Homepage
+
 ![Homepage](https://raw.githubusercontent.com/Dedenmhmmd7/coglinetech.com/main/screenshot/homepage.png)
 
 ### Login Page
+
 ![Login Page](https://raw.githubusercontent.com/Dedenmhmmd7/coglinetech.com/main/screenshot/login.png)
